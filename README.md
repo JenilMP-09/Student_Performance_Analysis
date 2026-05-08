@@ -60,7 +60,6 @@ The dataset contains information related to:
 
 ```bash
 git clone https://github.com/JenilMP-09/Student_Performance_Analysis
-cd <repository-folder>
 ```
 
 ### 2. Install Dependencies
