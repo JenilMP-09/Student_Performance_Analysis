@@ -47,7 +47,7 @@ The dataset contains information related to:
 ## Technologies Used
 
 - Python
-- Jupyter Notebook
+- Google Colab
 - Pandas
 - Matplotlib
 - Seaborn
@@ -71,7 +71,7 @@ pip install pandas matplotlib seaborn notebook
 ### 3. Launch Jupyter Notebook
 
 ```bash
-jupyter notebook
+google colab
 ```
 
 Then open:
