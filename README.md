@@ -1,8 +1,7 @@
 # Student Performance Analysis
 
 ## Introduction
-This project performs exploratory data analysis (EDA) on the **Student Performance Dataset** using Python.  
-The notebook analyzes student academic performance, study habits, demographics, and other factors that may influence final grades.
+This project performs exploratory data analysis (EDA) on the **Student Performance Dataset** using Python. The notebook analyzes student academic performance, study habits, demographics, and other factors that may influence final grades.
 
 The analysis is implemented in the Jupyter Notebook:
 
