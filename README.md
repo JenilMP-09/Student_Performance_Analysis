@@ -68,7 +68,7 @@ git clone https://github.com/JenilMP-09/Student_Performance_Analysis
 pip install pandas matplotlib seaborn notebook
 ```
 
-### 3. Launch Jupyter Notebook
+### 3. Launch Google Colab
 
 ```bash
 google colab
@@ -131,9 +131,7 @@ Example:
 
 ```python
 import pandas as pd
-
 df = pd.read_csv("student-mat.csv", sep=";")
-
 print(df.head())
 ```
 
@@ -159,12 +157,6 @@ Possible enhancements for this project:
 
 ---
 
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## Author
-
-Created for educational and data analysis practice purposes.
+Jenil M. Panchal
+(Data Science Enthusiast)
