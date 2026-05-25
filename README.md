@@ -160,5 +160,5 @@ Possible enhancements for this project:
 
 ## Author
 
-**Jenil M. Panchal**
+**Jenil M. Panchal**  
 (Data Science Enthusiast)
